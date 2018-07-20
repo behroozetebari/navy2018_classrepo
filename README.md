@@ -62,3 +62,4 @@ Flow and transport modeling class materials
 * MT3DMS
 * Zonebudget
 * Git
+* Notepad++
