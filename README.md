@@ -9,23 +9,26 @@ Flow and transport modeling class materials
 ## Agenda
 
 ### Day 1
+* Introduction and class logistics (Steve)
 * Lecture: Introduction to groundwater modeling (4 hours)
-  * What, why, purpose, protocol
-  * Governing equations for groundwater flow
-  * Types of models
-  * Case studies
+  * What, why, purpose, protocol (Chris)
+  * Governing equations for groundwater flow (Joe)
+  * Mechanics of flow and transport modeling (Chris)
+  * Case study -- Miami-Dade groundwater model (Joe)
+  * Case study -- USGS groundwater availability studies? (Chris)
 * LUNCH
-* Exercise: Working with an existing MODFLOW model (2 hours)
-* Exercise: Building a simple 2D model from scratch (2 hours)
+* Exercise: Working with an existing MODFLOW model (2 hours) (Joe)
+* Exercise: Building a simple 2D model from scratch (2 hours) (Chris)
 
 ### Day 2
 * Lecture: Building a conceptual groundwater model (1 hour)
   * Hydrogeologic framework
   * Water budgets
+  * LA Basin groundwater model (Scott)
 * Lecture: Designing and populating a grid (1 hour)
   * 2D models
   * 3D models
-* Exercise: Building a cross section model (2 hours)
+* Exercise: Building a cross section model (2 hours) (Scott)
 * LUNCH
 * Lecture: Model boundaries and sources and sinks (1 hour)
 * Lecture: Steady state versus transient modeling (1 hour)
