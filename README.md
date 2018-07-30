@@ -21,41 +21,41 @@ Flow and transport modeling class materials
 * Exercise: Building a simple 2D model from scratch (2 hours) (Chris)
 
 ### Day 2
-* Lecture: Building a conceptual groundwater model (1 hour)
-  * Hydrogeologic framework
-  * Water budgets
-  * LA Basin groundwater model (Scott)
-* Lecture: Designing and populating a grid (1 hour)
+* Lecture: Building a conceptual groundwater model (1 hour) (Joe/Scott)
+  * Hydrogeologic framework (15 mins) (Joe)
+  * Water budgets (15 mins) (Joe)
+  * LA Basin groundwater model (30 mins) (Scott)
+* Lecture: Designing and populating a grid (1 hour) (Chris)
   * 2D models
   * 3D models
 * Exercise: Building a cross section model (2 hours) (Scott)
 * LUNCH
-* Lecture: Model boundaries and sources and sinks (1 hour)
-* Lecture: Steady state versus transient modeling (1 hour)
-* Exercise: building a 3D model and assigning steady-state and transient boundary conditions (2 hours)
+* Lecture: Model boundaries and sources and sinks (1 hour) (Chris)
+* Lecture: Steady state versus transient modeling (1 hour) (Joe)
+* Exercise: building a 3D model and assigning steady-state and transient boundary conditions (2 hours) (Chris)
 
 ### Day 3
-* Lecture: Model calibration (1 hour)
+* Lecture: Model calibration (1 hour) (Joe)
   * Parameters and observations
   * Sensitivity analysis
   * Calibration
   * Uncertainty analysis
-* Exercise: Calibration of a groundwater flow model (3 hours)
+* Exercise: Calibration of a groundwater flow model (3 hours) (Joe)
 * LUNCH
-* Lecture: Introduction to solute transport modeling and advective transport (2 hour)
+* Lecture: Introduction to solute transport modeling and advective transport (2 hour) (Chris)
   * Advection, dispersion, sources and sinks, reactions
   * Particle tracking
   * Case studies
-* Exercise: Simulating advective movement of a contaminant plume (2 hours)
+* Exercise: Simulating advective movement of a contaminant plume (2 hours) (Chris)
 
 ### Day 4
-* Lecture: Solute transport governing equations (1 hour)
-* Exercise: Simulating advective and dispersive movement of a contaminant plume (2)
-* Exercise: Simulation of remediation alternatives (1 hour)
+* Lecture: Solute transport governing equations (1 hour) (Chris)
+* Exercise: Simulating advective and dispersive movement of a contaminant plume (2 hours) (Chris)
+* Exercise: Simulation of remediation alternatives (1 hour) (Chris)
 * LUNCH
-* Class project: Students break into teams to design a model for a class project (2 hours)
-* Special topics (1 hour)
-* Wrap up and/or time for working with participant models (1 hour)
+* Class project: Students break into teams to design a model for a class project (2 hours) (Joe)
+* Special topics (1 hour) (all)
+* Wrap up and/or time for working with participant models (1 hour) (all)
 
 ## Software
 * Groundwater Vistas
