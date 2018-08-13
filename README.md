@@ -9,8 +9,8 @@ Flow and transport modeling class materials
 ## Agenda
 
 ### Day 1
-* Introduction and class logistics (Steve)
-* Lecture: Introduction to groundwater modeling (1 hour) (Chris)
+* Class logistics and introduction (Steve/Chris)
+* Lecture: The Modeling Process (1 hour) (Chris)
 * Lecture: Governing equations for groundwater flow (1 hour) (Joe)
 * Lecture: Mechanics of flow and transport modeling (0.5 hours) (Chris)
 * Exercise: Building a simple 2D model from scratch (1.5 hours) (Chris)
