@@ -8,7 +8,7 @@ Flow and transport modeling class materials
 
 ## Lectures
 * Lecture 1: The modeling process
-* Lecture 2: Governing equations for groundwater flow
+* Lecture 2: Governing equations and numerical methods for groundwater flow
 * Lecture 3: Hydrogeologic frameworks and water budgets
 * Lecture 4: Introduction to MODFLOW
 * Lecture 5: MODFLOW stress and advanced packages
@@ -21,7 +21,7 @@ Flow and transport modeling class materials
 ### Day 1
 * Class logistics and introduction (Steve/Chris)
 * Lecture: The Modeling Process (1 hour) (Chris)
-* Lecture: Governing equations for groundwater flow (1 hour) (Joe)
+* Lecture: Governing equations and numerical methods for groundwater flow (1 hour) (Joe)
 * Demonstration: Mechanics of flow and transport modeling (0.5 hours) (Chris)
 * Exercise: Building a simple 2D model from scratch (1.5 hours) (Chris)
 * LUNCH
