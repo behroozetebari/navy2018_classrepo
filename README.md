@@ -50,7 +50,7 @@ Flow and transport modeling class materials
   * Uncertainty analysis
 * Exercise: Calibration of the class project model (3 hours) (Joe)
 * LUNCH
-* Exercise: Predictions using the class project model (0.5 hours) (Joe)
+* Discussion of class project model calibration and predictions (0.5 hours) (Joe)
 * Exercise: Particle flow (0.5 hours) (Chris)
 * Lecture: Solute transport modeling (1.5 hours) (Chris)
   * Advection, dispersion, sources and sinks, reactions
