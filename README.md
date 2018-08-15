@@ -16,6 +16,17 @@ Flow and transport modeling class materials
 * Lecture 7: Solute transport modeling
 * Lecture 8: Solute transport governing equations
 
+## Exercises
+* Exercise 1: Building a simple 2D model from scratch
+* Exercise 2: Working with an existing MODFLOW model
+* Exercise 3: Building a cross section model
+* Exercise 4: Building the class project model
+* Exercise 5: Calibration of the class project model
+* Exercise 6: Particle flow
+* Exercise 7: Simulating advective movement of a contaminant plume
+* Exercise 8: Simulating advective and dispersive movement of a contaminant plume
+* Exercise 9: Simulation of remediation alternatives
+
 ## Agenda
 
 ### Day 1
@@ -40,7 +51,7 @@ Flow and transport modeling class materials
   * Stress packages (WEL, DRN, RIV, GHB, RCH, EVT)
   * Advanced packages
 * Case study: Freyberg model (0.5 hours) (Joe)
-* Exercise 4: Class project model (2.5 hours) (Joe)
+* Exercise 4: Building the class project model (2.5 hours) (Joe)
 
 ### Day 3
 * Lecture 6: Model calibration (1 hour) (Joe)
