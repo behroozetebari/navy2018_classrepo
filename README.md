@@ -59,15 +59,15 @@ Flow and transport modeling class materials
   * Sensitivity analysis
   * Calibration
   * Uncertainty analysis
-* Exercise 5: Calibration of the class project model (3 hours) (Joe)
+* Exercise 5: Class project model calibration and prediction (3 hours) (Joe)
 * LUNCH
-* Discussion of class project model calibration and predictions (0.5 hours) (Joe)
 * Exercise 6: Particle flow (0.5 hours) (Chris)
 * Lecture 7: Solute transport modeling (1.5 hours) (Chris)
   * Advection, dispersion, sources and sinks, reactions
   * Particle tracking
   * Case studies
-* Exercise 7: Simulating advective movement of a contaminant plume (1.5 hours) (Chris)
+* Exercise 7: Class proejct model particle of a contaminant plume (1.5 hours) (Joe)
+* Discussion of class project model calibration and predictions (0.5 hours) (Joe)
 
 ### Day 4
 * Lecture 8: Solute transport governing equations (1 hour) (Chris)
