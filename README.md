@@ -66,8 +66,8 @@ Flow and transport modeling class materials
   * Advection, dispersion, sources and sinks, reactions
   * Particle tracking
   * Case studies
-* Exercise 7: Class proejct model particle of a contaminant plume (1.5 hours) (Joe)
-* Discussion of class project model calibration and predictions (0.5 hours) (Joe)
+* Exercise 7: Class project particle tracking of a contaminant plume (1.0 hour) (Joe)
+* Discussion of class project model calibration and predictions (1.0 hour) (Joe)
 
 ### Day 4
 * Lecture 8: Solute transport governing equations (1 hour) (Chris)
