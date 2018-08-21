@@ -62,9 +62,8 @@ Flow and transport modeling class materials
 * Exercise 5: Class project model calibration and prediction (3 hours) (Joe)
 * LUNCH
 * Exercise 6: Particle flow (0.5 hours) (Chris)
-* Lecture 7: Solute transport modeling (1.5 hours) (Chris)
-  * Particle tracking
-  * Advection, dispersion, sources and sinks, reactions
+* Lecture 7a: Particle tracking with MODPATH (0.5 hours) (Chris)
+* Lecture 7: Solute transport modeling (1.0 hours) (Chris)
 * Exercise 7: Class project particle tracking of a contaminant plume (1.0 hour) (Joe)
 * Discussion of class project model calibration and predictions (1.0 hour) (Joe)
 
