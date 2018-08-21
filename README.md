@@ -63,14 +63,13 @@ Flow and transport modeling class materials
 * LUNCH
 * Exercise 6: Particle flow (0.5 hours) (Chris)
 * Lecture 7: Solute transport modeling (1.5 hours) (Chris)
-  * Advection, dispersion, sources and sinks, reactions
   * Particle tracking
-  * Case studies
+  * Advection, dispersion, sources and sinks, reactions
 * Exercise 7: Class project particle tracking of a contaminant plume (1.0 hour) (Joe)
 * Discussion of class project model calibration and predictions (1.0 hour) (Joe)
 
 ### Day 4
-* Lecture 8: Solute transport governing equations (1 hour) (Chris)
+* Lecture 8: Introduction to MT3D (1 hour) (Chris)
 * Exercise 8: Simulating advective and dispersive movement of a contaminant plume (2 hours) (Chris)
 * Exercise 9: Simulation of remediation alternatives (1 hour) (Chris)
 * LUNCH
