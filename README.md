@@ -63,8 +63,8 @@ Flow and transport modeling class materials
 * LUNCH
 * Lecture 7a: Particle tracking with MODPATH (0.5 hours) (Chris)
 * Exercise 7: Class project particle tracking of a contaminant plume (1.0 hour) (Joe)
-* Discussion of class project model calibration and predictions (1.0 hour) (Joe)
 * Exercise 6: Particle flow (0.5 hours) (Chris)
+* Discussion of class project model calibration and predictions (1.0 hour) (Joe)
 * Lecture 7: Solute transport modeling (1.0 hours) (Chris)
 
 ### Day 4
