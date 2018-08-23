@@ -1,0 +1,11 @@
+# MODFLOW2000 Well Package
+PARAMETER  0  0
+ 6 50   AUX IFACE
+ 0 0               Stress Period 1
+ 6 0               Stress Period 2
+ 1  9 16 -7.084800E+02 0
+ 1 11 13 -3.542400E+02 0
+ 1 20 14 -3.369600E+02 0
+ 1 26 10 -7.171200E+01 0
+ 1 29  6 -6.220800E+01 0
+ 1 34 12 -3.715200E+02 0

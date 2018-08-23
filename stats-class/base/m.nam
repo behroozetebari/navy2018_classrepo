@@ -1,0 +1,13 @@
+LIST  7 m.lst
+BAS6  1 m.bas
+DIS  29 m.dis
+LPF  11 m.lpf
+CHD  17 m.chd
+WEL  12 m.wel
+RIV  14 m.riv
+RCH  18 m.rch
+OC   22 m.oc
+PCG  19 m.pcg
+HOB 101 m.hob
+DATA(BINARY) 50 m.cbc
+DATA(BINARY) 30 m.hds

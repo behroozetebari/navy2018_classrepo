@@ -1,0 +1,6 @@
+# MODFLOW2000 Recharge Package
+PARAMETER  0
+ 3 50
+ 1 1
+ constant 1.3824e-04 
+-1
